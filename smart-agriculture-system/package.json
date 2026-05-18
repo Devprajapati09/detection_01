@@ -1,0 +1,17 @@
+{
+  "name": "smart-agriculture-system",
+  "version": "0.1.0",
+  "description": "Smart Agriculture System - frontend, backend, AI services, and Supabase backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npm run start",
+    "build": "echo \"Add build steps here\"",
+    "test": "echo \"Add test scripts here\""
+  },
+  "keywords": ["agriculture", "smart", "IoT", "AI"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
